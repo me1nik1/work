@@ -8,7 +8,6 @@ public class Main {
             changeValue(value);
             System.out.println(value);
         }
-
         {
             Integer value = 33;
             changeValue(value);
